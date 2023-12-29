@@ -9,9 +9,10 @@
 - **Languages**:
  <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,php,symfony,androidstudio,angular" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,php,symfony,androidstudio,angular" />
   </a>
  </p>
+ <br><br>
 - **Softwares and Tools**:
  <p align="center">
   <a href="https://skillicons.dev">
