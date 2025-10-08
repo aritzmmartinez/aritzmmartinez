@@ -1,11 +1,11 @@
-<h1 align="center"><b>Hola , soy Aritz Martínez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Aritz Martínez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 - **Languages**:
  <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,php,symfony" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,flutter,dart,go,mysql,php,symfony,java" />
   </a>
  </p>
  <br><br>
@@ -13,7 +13,7 @@
 - **Softwares and Tools**:
  <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,visualstudio,figma,github,gitlab,jenkins,postman,docker" />
+   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,supabase,firebase,figma,github,gitlab,jenkins,postman,docker" />
   </a>
 </p>
 <br><br>
