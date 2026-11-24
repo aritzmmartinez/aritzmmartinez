@@ -30,11 +30,9 @@ I'm always interested in exploring new tools, improving my coding practices, and
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
+<img src="https://github.com/aritzmmartinez/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="49%" />
+<img src="https://github.com/aritzmmartinez/github-stats/blob/generated/languages.svg#gh-dark-mode-only" width="49%" />
 
-<img src="https://raw.githubusercontent.com/aritzmmartinez/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="49%" />
-<img src="https://raw.githubusercontent.com/aritzmmartinez/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="49%" />
-
-<img src="https://raw.githubusercontent.com/aritzmmartinez/github-stats/master/generated/overview.svg#gh-light-mode-only" width="49%" />
-<img src="https://raw.githubusercontent.com/aritzmmartinez/github-stats/master/generated/languages.svg#gh-light-mode-only" width="49%" />
-
+<img src="https://github.com/aritzmmartinez/github-stats/blob/generated/overview.svg#gh-light-mode-only" width="49%" />
+<img src="https://github.com/aritzmmartinez/github-stats/blob/generated/languages.svg#gh-light-mode-only" width="49%" />
 </p>
